@@ -1,0 +1,63 @@
+NOVELL TECHNICAL INFORMATION DOCUMENT
+
+TITLE:  Sample Code Attach and Send written in Visual Basic.
+AUTHOR:  CMI
+DOCUMENT ID:  TID102195
+DOCUMENT REVISION:  
+DATE:  1999/08/31 3:12 PM
+ALERT STATUS:  Yellow
+INFORMATION TYPE:  Issue
+README FOR:  GWVB01.EXE
+NOVELL PRODUCT CLASS:
+
+NetWare API
+
+NOVELL PRODUCT and VERSION:
+
+NetWare default
+
+CATEGORY:
+
+none
+
+COMPILER:
+
+default
+
+TARGET OS:
+
+default
+
+ABSTRACT:
+
+Sample code that allows a person to send a message and attach a file.  This code uses the groupwise name completion activeX control.  When attaching the file the user must type in the complete path.
+
+DETAILED DESCRIPTION
+
+
+
+-----------------------------------------------------------------
+DISCLAIMER
+THE ORIGIN OF THIS INFORMATION MAY BE INTERNAL OR EXTERNAL TO NOVELL. NOVELL MAKES EVERY EFFORT WITHIN ITS MEANS TO VERIFY THIS INFORMATION. HOWEVER, THE INFORMATION PROVIDED IN THIS DOCUMENT IS FOR YOUR INFORMATION ONLY. NOVELL MAKES NO EXPLICIT OR IMPLIED CLAIMS TO THE VALIDITY OF THIS INFORMATION.
+-----------------------------------------------------------------
+
+Self-Extracting File Name:  GWVB01.EXE
+
+Files Included:		Size	Date	Time
+
+GWVB01.TXT	(this file)
+GWVB01.MSG		200	8-31-99    3:11 PM
+GWVB01.TXT		1717	8-31-99    3:11 PM
+RECIPIENT.VBW		102	8-31-99    3:11 PM
+RECIPIENT.VBP		668	8-31-99    3:11 PM
+FORM1.FRM		4794	8-31-99    3:11 PM
+FORM2.FRM		1205	8-31-99    3:11 PM
+
+Installation Instructions:
+
+GWVB01.EXE can be found on:
+The DeveloperNet Support World Wide Web site (developer.novell.com/engsup/sample/recent.htm)
+
+-----------------------------------------------------------------
+Any trademarks referenced in this document are the property of their respective owners. Consult your product manuals for complete trademark information.
+-----------------------------------------------------------------
